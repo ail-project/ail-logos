@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="169.68442mm"
-   height="173.07353mm"
-   viewBox="0 0 169.68442 173.07353"
+   width="180mm"
+   height="180mm"
+   viewBox="0 0 180 180"
    version="1.1"
    id="svg1309"
    sodipodi:docname="ail-project-icon.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="/home/aurelien/git/AIL/ail-logos/ail-project-icon.png"
-   inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200">
+   inkscape:export-xdpi="25.400002"
+   inkscape:export-ydpi="25.400002">
   <defs
      id="defs1303" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87705101"
-     inkscape:cx="86.874961"
-     inkscape:cy="253.64252"
+     inkscape:zoom="1.754102"
+     inkscape:cx="211.07098"
+     inkscape:cy="333.68305"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,6 @@
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-grids="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -60,10 +59,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-17.247498,-88.696732)">
+     transform="translate(-17.247498,-81.770264)">
     <g
        id="g1944"
-       transform="matrix(1.5454733,0,0,1.5862781,-65.889354,39.221917)"
+       transform="matrix(1.5454733,0,0,1.5862781,-60.911736,34.847647)"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
        style="fill:#880000;fill-opacity:1">
@@ -86,15 +85,14 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </g>
-    <g
-       id="g4597">
-      <ellipse
-         ry="85.081543"
-         rx="84.842209"
-         cy="173.77827"
-         cx="102.08971"
-         id="path2031"
-         style="opacity:0.13999999;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.24558181;stroke-opacity:1" />
-    </g>
+    <ellipse
+       style="opacity:0.13999999;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.24558181;stroke-opacity:1"
+       id="path2031"
+       cx="107.06733"
+       cy="169.40401"
+       rx="84.842209"
+       ry="85.081543"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
   </g>
 </svg>
